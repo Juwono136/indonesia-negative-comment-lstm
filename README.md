@@ -1,4 +1,9 @@
 # Sentiment Analysis of Negative Comments on Social Media Using Long Short-Term Memory (LSTM)
+
+Testing Model
+------------------
+Click this link for testing the model: [Testing Model](https://huggingface.co/spaces/juwono136/indonesia-negative-comment-classification)
+
 Introduction
 ------------------
 Currently, social media has become a space for many people to discuss and share information. On social media, all users can provide responses or comments on a piece of informational content. 
@@ -50,10 +55,6 @@ Embedding Projector in Positive Class
 Embedding Projector in Negative Class
 ------------------
 <img src="https://github.com/Juwono136/indonesia-negative-comment-lstm/assets/70443393/841c6cd5-d521-42d7-ada1-c6404b150530" width="600" height="400" />
-
-Testing Model Using Gradio
-------------------
-Click this link for testing the model: [Testing Model](https://huggingface.co/spaces/juwono136/indonesia-negative-comment-classification)
 
 
 ### Project Members
