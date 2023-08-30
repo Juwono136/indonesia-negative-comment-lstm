@@ -53,7 +53,7 @@ Embedding Projector in Negative Class
 
 Testing Model Using Gradio
 ------------------
-Click this link for testing the model: 
+Click this link for testing the model: [Testing Model](https://huggingface.co/spaces/juwono136/indonesia-negative-comment-classification)
 
 
 ### Project Members
