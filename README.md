@@ -80,4 +80,3 @@ Negative sentences are divided into 4 types: Pornography, Hate Speech (SARA), Ra
 ### 🤝 Project Members
 
 - Juwono
-  > > > > > > > 7ff1540f4fceddd96e62704a633005a88ec1b692
